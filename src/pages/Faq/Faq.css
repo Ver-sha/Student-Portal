@@ -1,0 +1,22 @@
+.accordian-wrapper{
+  width: 100%;
+  max-width: 80%;
+  margin: 0 auto;
+}
+.accord-item{
+  /* padding:15px 10px; */
+}
+.accord-summary h4{
+  font-size: 18px;
+  color: rgb(158 19 158);
+  font-weight: 400;
+}
+.faq-container{
+  width: 100%;
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+.accord-item.Mui-expanded {
+  margin: 10px 22px !important;
+}
